@@ -1,0 +1,51 @@
+[
+    {
+        "question": "What does RAM stand for?",
+        "choices": {
+            "correct": "Random-Access Memory",
+            "incorrect": ["Read-Access Memory", "Random-Actual Memory", "Read-Actual Memory"]
+        }
+    },
+    {
+        "question": "What does ROM stand for?",
+        "choices": {
+            "correct": "Read-Only Memory",
+            "incorrect": ["Random-Online Memory", "Random-Only Memory", "Read-Online Memory"]
+        }
+    },
+    {
+        "question": "What does BIOS stand for?",
+        "choices": {
+            "correct": "Basic Input/Output System",
+            "incorrect": ["Basic Input/Output Server", "Backing Input/Output Server", "Back-up Input/Output System"]
+        }
+    },
+    {
+        "question": "Which of these are benefits of flash memory over magnetic storage?",
+        "choices": {
+            "correct": "All of the above",
+            "incorrect": ["Compact", "Durable", "Faster"]
+        }
+    },
+    {
+        "question": "Which of these are in the correct order?",
+        "choices": {
+            "correct": "KB, MB, GB, TB",
+            "incorrect": ["KB, MB, TB, GB", "KB, GB, TB, MB", "TB, MB, GB, KB"]
+        }
+    },
+    {
+        "question": "Which of these are the most expensive per GB?",
+        "choices": {
+            "correct": "Solid State Drive (SSD)",
+            "incorrect": ["Hard-Disc Drive (HDD)", "Flash Drive", "Magnetic Storage"]
+        }
+    },
+    {
+        "question": "What is the most common type of storage in Desktop Computers?",
+        "choices": {
+            "correct": "Magnetic Storage",
+            "incorrect": ["Solid State Drive (SSD)", "Hard-Disc Drive (HDD)", "Flash Drive"]
+        }
+    }
+]
