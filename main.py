@@ -36,7 +36,7 @@ def main():
                 elif d == correct_answer:
                     correct_choice = 'd'
 
-                if userInput == correct_choice or userInput == correct_answer:
+                if userInput == correct_choice or userInput == correct_answer.lower():
                     print('Correct!')
                     points += 1
                 else:
@@ -53,4 +53,3 @@ def main():
             print(f'You got {points} out of 10 correct!')
             break
 main()
-input()
